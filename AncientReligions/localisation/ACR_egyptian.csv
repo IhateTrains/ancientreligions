@@ -4,11 +4,11 @@ religion_openly_in_egyptian_subgroup_tooltip;Openly practice an Ancient Egyptian
 true_religion_in_egyptian_subgroup_tooltip;Truly practicing an Ancient Egyptian religion.;;;;;;;;;;;;;x
 secret_religion_in_egyptian_subgroup_tooltip;Secretly practicing an Ancient Egyptian religion.;;;;;;;;;;;;;x
 ###### Religion/titles definitions;;;;;;;;;;;;;;x
-egyptian_pagan;Kemetic;kÃ©mite;Kemetic;;Kemetic;;;;;;;;;x
-egyptian_pagan_DESC;The Kemetic religion is polytheistic, with a large selection of gods and cults. It originated in ancient Egypt and with the conquests of the Egyptian empire, it would go on to become the dominant religion in the middle east until the rise of the Roman empire.;La religion kÃ©mite est polythÃ©iste, avec un grand nombre de dieux et de cultes. Elle est nÃ©e dans l'Ancienne Egypte et s'Ã©tendit avec les conquestes de l'Empire Egyptien, au point de devenir la religion dominante au Moyen-Orient jusqu'Ã  l'avÃ¨nement de l'Empire Romain.;;;;;;;;;;;;x
-egyptian_pagan_FEATURES;Â§Y*Â§! Can proselytize pagan religions \nÂ§Y*Â§! Can restore Luxor Temple \nÂ§Y*Â§! Can construct pyramids;Peut rÃ©pandre sa religion chez les PaÃ¯ens \nÂ§Y*Â§! Peut restaurer le Temple de Luxor \nÂ§Y*Â§! Peut construire des Pyramides;;;;;;;;;;;;x
+egyptian_pagan;Kemetic;kémite;Kemetic;;Kemetic;;;;;;;;;x
+egyptian_pagan_DESC;The Kemetic religion is polytheistic, with a large selection of gods and cults. It originated in ancient Egypt and with the conquests of the Egyptian empire, it would go on to become the dominant religion in the middle east until the rise of the Roman empire.;La religion kémite est polythéiste, avec un grand nombre de dieux et de cultes. Elle est née dans l'Ancienne Egypte et s'étendit avec les conquestes de l'Empire Egyptien, au point de devenir la religion dominante au Moyen-Orient jusqu'à l'avènement de l'Empire Romain.;;;;;;;;;;;;x
+egyptian_pagan_FEATURES;§Y*§! Can proselytize pagan religions \n§Y*§! Can restore Luxor Temple \n§Y*§! Can construct pyramids;Peut répandre sa religion chez les Païens \n§Y*§! Peut restaurer le Temple de Luxor \n§Y*§! Peut construire des Pyramides;;;;;;;;;;;;x
 aten_pagan;Atenic;atonienne;Atenic;;Atenic;;;;;;;;;x
-aten_pagan_DESC;The Atenic religion is a proto-monotheistic religion that split off from Kemetism. Originally founded by the pharaoh Akhenaten, this heresy usurped the position of supreme god, typically held by Amun, with Aten. In addition, this heresy completely disowns the other Kemetic gods in complete favour of Aten. The heresy died out shortly after Akhenaten's death.;Le culte d'Aton est une religion proto-monothÃ©iste qui dÃ©rive du KÃ©mitisme. FondÃ©e par le pharaon AkhÃ©naton, cette hÃ©rÃ©sie plaÃ§a Aton en position de dieu supresme, au lieu de l'habituel Amon. De plus, cette hÃ©rÃ©sie balaie complÃ¨tement les aultres dieux kÃ©mites en faveur d'Aton. L'hÃ©rÃ©sie disparut peu de temps aprÃ¨s le trÃ©pas d'AkhÃ©naton.;;;;;;;;;;;;x
+aten_pagan_DESC;The Atenic religion is a proto-monotheistic religion that split off from Kemetism. Originally founded by the pharaoh Akhenaten, this heresy usurped the position of supreme god, typically held by Amun, with Aten. In addition, this heresy completely disowns the other Kemetic gods in complete favour of Aten. The heresy died out shortly after Akhenaten's death.;Le culte d'Aton est une religion proto-monothéiste qui dérive du Kémitisme. Fondée par le pharaon Akhénaton, cette hérésie plaça Aton en position de dieu supresme, au lieu de l'habituel Amon. De plus, cette hérésie balaie complètement les aultres dieux kémites en faveur d'Aton. L'hérésie disparut peu de temps après le trépas d'Akhénaton.;;;;;;;;;;;;x
 BOOK_OF_THE_DEAD;Book of the Dead;Livre des morts;Book of the Dead;;Book of the Dead;;;;;;;;;x
 AMARNA_SCROLLS;Amarna Scrolls;Amarna Scrolls;Amarna Scrolls;;Amarna Scrolls;;;;;;;;;x
 GOD_AMAUNET;Amaunet;Amaunet;Amaunet;;Amaunet;;;;;;;;;x
@@ -35,7 +35,7 @@ d_horus;Horus Guard;Garde d'Horus;Horus Guard;;Horus Guard;;;;;;;;;x
 d_horus_adj;Guardian;Garde;Guardian;;Guardian;;;;;;;;;x
 k_aten_pagan;The Paragon Cult of Aten;Le Culte Parandon d'Aton;;;;;;;;;;;;x
 k_aten_pagan_adj;Atenic;Atonien;;;;;;;;;;;;x
-d_burning_blades;The Burning Blades;Les lames brÃ»lantes;;;;;;;;;;;;x
+d_burning_blades;The Burning Blades;Les lames brûlantes;;;;;;;;;;;;x
 d_burning_blades_adj;Burning;Ardent;;;;;;;;;;;;x
 ###### FOA egyptian_pagan;;;;;;;;;;;;;;x
 count_egyptian_pagan;Irypat;Irypat;Irypat;;Irypat;;;;;;;;;x
@@ -46,10 +46,10 @@ emperor_egyptian_pagan;Aai-Pharaoh;Aai-Pharaoh;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;
 emperor_female_egyptian_pagan;Aai-Pharaoh;Aai-Pharaoh;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;x
 title_queen_mother_egyptian_pagan;Mewet Pharaoh;Mewet Pharaon;Mewet Pharaoh;;Mewet Pharaoh;;;;;;;;;x
 temple_baron_egyptian_pagan;Local Cult Leader;Dirigeant du Culte Local;Local Cult Leader;;Local Cult Leader;;;;;;;;;x
-temple_count_egyptian_pagan;Priest;PrÃªtre;Priest;;Priest;;;;;;;;;x
-temple_count_female_egyptian_pagan;Priestess;PrÃªtresse;Priestess;;Priestess;;;;;;;;;x
-temple_duke_egyptian_pagan;High Priest;Grand PrÃªtre;High Priest;;High Priest;;;;;;;;;x
-temple_duke_female_egyptian_pagan;High Priestess;Grand PrÃªtresse;High Priestess;;High Priestess;;;;;;;;;x
+temple_count_egyptian_pagan;Priest;Prêtre;Priest;;Priest;;;;;;;;;x
+temple_count_female_egyptian_pagan;Priestess;Prêtresse;Priestess;;Priestess;;;;;;;;;x
+temple_duke_egyptian_pagan;High Priest;Grand Prêtre;High Priest;;High Priest;;;;;;;;;x
+temple_duke_female_egyptian_pagan;High Priestess;Grand Prêtresse;High Priestess;;High Priestess;;;;;;;;;x
 temple_king_egyptian_pagan;Pharaoh;Pharaon;Pharaoh;;Pharaoh;;;;;;;;;x
 temple_emperor_egyptian_pagan;Aai-Pharaoh;Aai-Pharaon;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;x
 job_chancellor_egyptian_pagan;Vizier;Vizir;Wesir;;Visir;;;;;;;;;x
@@ -66,10 +66,10 @@ emperor_aten_pagan;Aai-Pharaoh;Aai-Pharaoh;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;x
 emperor_female_aten_pagan;Aai-Pharaoh;Aai-Pharaoh;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;x
 title_queen_mother_aten_pagan;Mewet Pharaoh;Mewet Pharaon;Mewet Pharaoh;;Mewet Pharaoh;;;;;;;;;x
 temple_baron_aten_pagan;Local Cult Leader;Dirigeant du Culte Local;Local Cult Leader;;Local Cult Leader;;;;;;;;;x
-temple_count_aten_pagan;Priest;PrÃªtre;Priest;;Priest;;;;;;;;;x
-temple_count_female_aten_pagan;Priestess;PrÃªtresse;Priestess;;Priestess;;;;;;;;;x
-temple_duke_aten_pagan;High Priest;Grand PrÃªtre;High Priest;;High Priest;;;;;;;;;x
-temple_duke_female_aten_pagan;High Priestess;Grand PrÃªtresse;High Priestess;;High Priestess;;;;;;;;;x
+temple_count_aten_pagan;Priest;Prêtre;Priest;;Priest;;;;;;;;;x
+temple_count_female_aten_pagan;Priestess;Prêtresse;Priestess;;Priestess;;;;;;;;;x
+temple_duke_aten_pagan;High Priest;Grand Prêtre;High Priest;;High Priest;;;;;;;;;x
+temple_duke_female_aten_pagan;High Priestess;Grand Prêtresse;High Priestess;;High Priestess;;;;;;;;;x
 temple_king_aten_pagan;Pharaoh;Pharaon;Pharaoh;;Pharaoh;;;;;;;;;x
 temple_emperor_aten_pagan;Aai-Pharaoh;Aai-Pharaon;Aai-Pharaoh;;Aai-Pharaoh;;;;;;;;;x
 job_chancellor_aten_pagan;Vizier;Vizir;Wesir;;Visir;;;;;;;;;x
@@ -123,4 +123,4 @@ ca_kemetic_pyramid;Pyramid;;;;;;;;;;;;;x
 ct_kemetic_pyramid;Pyramid;;;;;;;;;;;;;x
 tp_kemetic_pyramid;Pyramid;;;;;;;;;;;;;x
 tb_kemetic_pyramid;Pyramid;;;;;;;;;;;;;x
-ca_kemetic_pyramid_desc;The pyramids were built to protect the body of the deceased pharaoh. These massive tombs were constructed to withstand the elements of time and were intended to last forever. Most Ancient Egyptians planned for their death and the pharaoh was no exception. His death was much more elaborate than the typical Ancient Egyptian and considered an important event. This process was tied to the rising and setting of the sun. It was believed that while alive, the pharaoh represented Horus and upon his death he represented Osiris. During his state as Osiris, he would set the sun, while the new pharaoh, his son, in the image of Horus, would raise the sun. This process continued for hundreds of years and this is why it was important the pharaoh be protected eternally to avoid a cosmic disturbance.;;;;;;;;;;;;;x
+ca_kemetic_pyramid_desc;Pyramid (PLACEHOLDER, Awaiting TurtleShroom);;;;;;;;;;;;;x
